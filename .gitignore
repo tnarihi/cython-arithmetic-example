@@ -1,0 +1,4 @@
+*.pyc
+cy_ex_arithmetic/*.c
+cy_ex_arithmetic/*.so
+build/
